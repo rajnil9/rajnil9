@@ -11,15 +11,15 @@
 
 
 
-- 👨‍💻 I’m currently working on *Open Source Sontribution at GSSoC'24🌞 , Hactoberfest'24🌏 ,WOB'24❄*
+- 👨‍💻 I’m currently working on **Open Source Sontribution at GSSoC'24🌞 , Hactoberfest'24🌏 ,WOB'24❄**
 
-- 👯 I’m a *1st year Undergraduate at BPPIMT , CSE'28*
+- 👯 I’m a **1st year Undergraduate at BPPIMT , CSE'28**
 
-- 🌱 I’m currently learning *DSA , Web Development , Machine Learning and AI*
+- 🌱 I’m currently learning **DSA , Web Development , Machine Learning and AI**
 
-- 🌟 I'm interested in *Web Development , Machine Learning , App Development , AI & Deep Learning*
+- 🌟 I'm interested in **Web Development , Machine Learning , App Development , AI & Deep Learning**
 
-- ⚡ Fun fact : *I love anime*
+- ⚡ Fun fact : **I love anime**
 
 <h2 align="left">🌐Connect with me:</h2>
 <p align="left">
