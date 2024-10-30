@@ -50,3 +50,7 @@
 
 ### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=rajnil9&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+
+
+<img src="https://raw.githubusercontent.com/rajnil9/rajnil9/output/snake.svg" width = 1500 alt="Snake animation" />
