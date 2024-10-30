@@ -4,9 +4,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/OKzRcUCJjdsAAAAC/mushoku-tensei-rudeus-greyrat.gif">
 
-[![](https://visitcount.itsvg.in/api?id=rajnil9&icon=5&color=6)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=rajnil9&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
