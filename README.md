@@ -49,6 +49,7 @@
 ### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=rajnil9&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
+### 🔝 MY badges :
 [![An image of @rajnil9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajnil9)](https://holopin.io/@rajnil9)
 
 <img src="https://raw.githubusercontent.com/rajnil9/rajnil9/output/snake.svg" width = 1500 alt="Snake animation" />
