@@ -49,7 +49,14 @@
 ### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=rajnil9&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-### 🔝 MY badges :
+## • Hacktoberfest'24 Badges 🌏:
 [![An image of @rajnil9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajnil9)](https://holopin.io/@rajnil9)
+
+
+## • GSSOC(24) Badges 🪶:
+<div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<rajnil9>">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a>
+</div>
+
 
 <img src="https://raw.githubusercontent.com/rajnil9/rajnil9/output/snake.svg" width = 1500 alt="Snake animation" />
