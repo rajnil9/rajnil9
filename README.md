@@ -46,8 +46,7 @@
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula)](https://github.com/rajnil9)
 
 ### 📊 Contribution Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true)](https://github.com/rajnil9)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true)](https://github.com/rajnil9)
 
 ### 💻 Tech Stack Usage
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
