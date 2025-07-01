@@ -47,14 +47,12 @@
 
 ### 📊 Contribution Statistics
 
-<p align="center">
-  <a href="https://github.com/rajnil9">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="200">
-  </a>
-  <a href="https://github.com/rajnil9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200">
-  </a>
-</p>
+<a href="https://github.com/rajnil9">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="185">
+</a>
+<a href="https://github.com/rajnil9">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="185">
+</a>
 
 ### 💻 Tech Stack Usage
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
@@ -63,9 +61,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/rajnil9?color=ff69b4&style=for-the-badge&label=Followers)
 ![Stars](https://img.shields.io/github/stars/rajnil9?color=facc15&style=for-the-badge&label=Stars)
-
-
-
 
 
 
