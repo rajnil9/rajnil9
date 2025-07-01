@@ -40,18 +40,33 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div> </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=rajnil9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+### 📈 Profile Summary
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=github_dark_blue)](https://github.com/rajnil9)
 
-![](https://streak-stats.demolab.com/?user=rajnil9&theme=synthwave&hide_border=false)
+### 📊 Statistics Overview
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=green_nur&hide_border=true)](https://github.com/rajnil9)
+
+### 💻 Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
+
+### 🏆 Profile Metrics
+![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views) <!-- electric blue -->
+![Followers](https://img.shields.io/github/followers/rajnil9?color=da70d6&style=for-the-badge&label=Followers) <!-- neon purple -->
+![Stars](https://img.shields.io/github/stars/rajnil9?color=ffff00&style=for-the-badge&label=Stars) <!-- bright yellow -->
 
 
-### 🔝 Top Contributed Repo:
 
-![](https://github-contributor-stats.vercel.app/api?username=rajnil9&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+
+
+
+
+  
 
 ## • Hacktoberfest'24 Badges 🌏:
 [![An image of @rajnil9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajnil9)](https://holopin.io/@rajnil9)
