@@ -43,25 +43,21 @@
 ## 📊 GitHub Analytics
 
 ### 📈 Profile Summary
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=github_dark_blue)](https://github.com/rajnil9)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula)](https://github.com/rajnil9)
 
 ### 📊 Statistics Overview
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=green_nur&hide_border=true)](https://github.com/rajnil9)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true)](https://github.com/rajnil9)
 
 ### 💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
 
 ### 🏆 Profile Metrics
-![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views) <!-- electric blue -->
-![Followers](https://img.shields.io/github/followers/rajnil9?color=da70d6&style=for-the-badge&label=Followers) <!-- neon purple -->
-![Stars](https://img.shields.io/github/stars/rajnil9?color=ffff00&style=for-the-badge&label=Stars) <!-- bright yellow -->
-
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/rajnil9?color=ff69b4&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/rajnil9?color=facc15&style=for-the-badge&label=Stars)
 
 
 
