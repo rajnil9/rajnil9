@@ -40,24 +40,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div> </p>
 
-## 📊 GitHub Analytics
+## 🚀 GitHub Insights
 
-### 📈 Profile Summary
+### 🪐 Developer Overview
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula)](https://github.com/rajnil9)
 
-### 📊 Statistics Overview
+### 📊 Contribution Statistics
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
-
-### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true)](https://github.com/rajnil9)
 
-### 💻 Most Used Languages
+### 💻 Tech Stack Usage
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
 
-### 🏆 Profile Metrics
+### 🏅 Community Metrics
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/rajnil9?color=ff69b4&style=for-the-badge&label=Followers)
 ![Stars](https://img.shields.io/github/stars/rajnil9?color=facc15&style=for-the-badge&label=Stars)
+
 
 
 
