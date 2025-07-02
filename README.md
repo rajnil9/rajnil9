@@ -49,8 +49,6 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
 
-[![GitHub Streak](https://streak-stats.surge.sh/?user=rajnil9&theme=tokyonight&hide_border=true&border_radius=10&fire=FF6A00&currStreakLabel=FF6A00&ring=FF6A00)](https://github.com/rajnil9)
-
 
 
 
