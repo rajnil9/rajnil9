@@ -43,7 +43,7 @@
 ## 🚀 GitHub Insights
 
 ### 🪐 Developer Overview
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula)](https://github.com/rajnil9)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula&v=2)](https://github.com/rajnil9)
 
 ### 🚀 GitHub Stats
 
