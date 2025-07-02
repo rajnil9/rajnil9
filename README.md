@@ -62,7 +62,8 @@
 
 
 ### 💻 Tech Stack Usage
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajnil9&theme=gruvbox_light&v=3)](https://github.com/rajnil9)
 
 ### 🏅 Community Metrics
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
