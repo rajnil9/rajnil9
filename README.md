@@ -47,9 +47,14 @@
 
 ### 🚀 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rajnil9)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true)](https://github.com/rajnil9)
+<p align="center">
+  <a href="https://github.com/rajnil9">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/rajnil9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  </a>
+</p>
 
 
 
