@@ -51,6 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width=48%>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajnil9&theme=tokyonight&hide_border=true&border_radius=10&fire=FF6A00&currStreakLabel=FF6A00&ring=FF6A00)](https://github.com/rajnil9)
+
+
 
 ### 💻 Tech Stack Usage
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/rajnil9)
