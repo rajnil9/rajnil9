@@ -58,12 +58,9 @@
 
 
 
-
-
-
 ### 💻 Tech Stack Usage
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnil9&layout=compact&theme=gruvbox_light&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnil9&ayout=compact&theme=gruvbox_light&hide_border=true&count_private=true" alt="rajnil9" />
 
 ### 🏅 Community Metrics
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
