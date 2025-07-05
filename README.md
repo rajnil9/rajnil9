@@ -25,9 +25,25 @@
 <a href="https://instagram.com/rajnil_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnil_saha" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/rajnil_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajnil_saha" height="40" width="50" /></a>
 
-</a>
 
-  
+<h2 align="left">💻 Languages and Tools:</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="10" alt="java logo" />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="10" alt="html5 logo" />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo" />
+  <img width="9" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="10" alt="c logo" />
+  </a>
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo" />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="10" alt="vscode logo" />
+</p>
+
+
 
 
 ## 🚀 GitHub Insights
