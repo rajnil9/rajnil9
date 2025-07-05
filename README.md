@@ -28,21 +28,7 @@
 </a>
 
   
-</p>
-<h2 align="left">💻Languages and Tools:</h2>
-<p <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="9" />
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-<img width="9" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-<img width="9" />
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="9" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="9" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div> </p>
+
 
 ## 🚀 GitHub Insights
 
