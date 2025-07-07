@@ -101,5 +101,5 @@
 </a>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/rajnil9/rajnil9/output/snake.svg" width = 1500 alt="Snake animation" />
 
