@@ -46,12 +46,12 @@
 
 
 
-## 🚀 GitHub Insights
+## 🚀 GitHub Insights:
 
-### 🪐 Developer Overview
+### 🪐 Developer Overview:
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula&v=2)](https://github.com/rajnil9)
 
-### 🚀 GitHub Stats
+### 🚀 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/rajnil9">
@@ -64,11 +64,11 @@
 
 
 
-### 💻 Tech Stack Usage
+### 💻 Tech Stack Usage:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnil9&ayout=compact&theme=gruvbox_light&hide_border=true&count_private=true" alt="rajnil9" />
 
-### 🏅 Community Metrics
+### 🏅 Community Metrics:
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/rajnil9?color=ff69b4&style=for-the-badge&label=Followers)
 ![Stars](https://img.shields.io/github/stars/rajnil9?color=facc15&style=for-the-badge&label=Stars)
