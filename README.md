@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 Finished working on **Open Source Contribution at GSSoC'24🌞 , Hactoberfest'24🌏 ,WOB'24❄**
+- 👨‍💻 Worked on **Open Source Contribution at GSSoC'24🌞 , Hactoberfest'24🌏 ,WOB'24❄**
 
 - 👯 I’m a **2nd year Undergraduate at BPPIMT , CSE'28**
 
