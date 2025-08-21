@@ -8,6 +8,7 @@
 
 
 
+- 👨‍💻 Working on **OSCI'25 🇮🇳**
 
 - 👨‍💻 Worked on **Open Source Contribution at GSSoC'24🌞 , Hactoberfest'24🌏**
 
