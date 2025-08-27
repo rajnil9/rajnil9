@@ -14,7 +14,7 @@
 
 - 👯 I’m a **2nd year Undergraduate at BPPIMT , CSE'28**
 
-- 🌱 I’m currently learning **DSA , Web Development , Machine Learning and AI**
+- 🌱 I’m currently learning **DSA and Machine Learning**
 
 - 🌟 I'm interested in **Web Development , Machine Learning , App Development , AI & Deep Learning**
 
