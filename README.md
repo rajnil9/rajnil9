@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajnil!</h1>
-<h3 align="center">An aspiring SDE from India</h3>
+<h3 align="center">An aspiring SDE and MLE from India</h3>
 
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/OKzRcUCJjdsAAAAC/mushoku-tensei-rudeus-greyrat.gif">
