@@ -2,7 +2,10 @@
 <h3 align="center">An aspiring SDE and MLE from India</h3>
 
 
-<img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/OKzRcUCJjdsAAAAC/mushoku-tensei-rudeus-greyrat.gif">
+<img align="right" alt="Coding" width="450" 
+     src="https://media1.tenor.com/m/OKzRcUCJjdsAAAAC/mushoku-tensei-rudeus-greyrat.gif" 
+     style="border: 3px solid #ff0055; border-radius: 10px;"/>
+
 
 [![](https://visitcount.itsvg.in/api?id=rajnil9&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
