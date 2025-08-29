@@ -63,27 +63,21 @@
 ## 🚀 GitHub Insights:
 
 ### 🪐 Developer Overview:
+
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnil9&theme=dracula&v=2)](https://github.com/rajnil9)
 
 ### 🚀 GitHub Stats:
 
-<p align="center">
-  <a href="https://github.com/rajnil9">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide_title=false&hide_rank=false&disable_animations=false&locale=en&order=1" alt="GitHub Stats" width="49%"/>
-  </a>
-  <a href="https://github.com/rajnil9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-  </a>
-</p>
+| Stats  | Streak |
+|---------------------|--------|
+| <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats with Grade" width="100%"/> | <a href="https://github.com/rajnil9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/></a> |
 
 
+| Languages by Repo | Languages by Commit |
+|-------------------|----------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajnil9&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajnil9&theme=radical&v=3) |
 
-### 💻 Tech Stack Usage:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnil9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
 
 ### 🏅 Community Metrics:
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnil9&color=00bfff&style=for-the-badge&label=Profile+Views)
