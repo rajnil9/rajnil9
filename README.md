@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring SDE and MLE from India</h3>
 
 
-<img align="right" src="https://media1.tenor.com/m/eUYmcq_lZ7cAAAAd/%E3%81%8B%E3%81%BF%E5%A4%AA.gif" alt="Bleach Kyoraku" height="300"/>
+<img align="right" src="https://media1.tenor.com/m/eUYmcq_lZ7cAAAAd/%E3%81%8B%E3%81%BF%E5%A4%AA.gif"  height="300"/>
 
 
 
