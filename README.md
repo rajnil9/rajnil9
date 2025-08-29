@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring SDE and MLE from India</h3>
 
 
-<img align="right" src="https://media1.tenor.com/m/95wyswZYHRoAAAAC/demon-slayer.gif" width="450"/>
+<img align="right" src="https://media1.tenor.com/m/5ONdvVAMo3cAAAAd/anime.gif" alt="Bleach Kyoraku" height="500"/>
 
 
 
