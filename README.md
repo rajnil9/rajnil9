@@ -12,13 +12,11 @@
 
 
 
-- 👨‍💻 Working on **OSCI'25**
+- 🌱 Learning various libraries in **Python**
 
-- 👨‍💻 Worked on **Open Source Contribution at GSSoC'24🌞 , Hactoberfest'24🌏**
+- 👨‍💻 Worked on **Open Source Contribution at OSCI'25🇮🇳 ,  GSSoC'24🌞 , Hactoberfest'24🌏**
 
 - 👯 I’m a **2nd year Undergraduate at BPPIMT , CSE'28**
-
-- 🌱 I’m currently learning **DSA and Machine Learning**
 
 - 🌟 I'm interested in **Web Development , Machine Learning , App Development , AI & Deep Learning**
 
