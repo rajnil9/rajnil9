@@ -77,7 +77,7 @@
 
 | Stats  | Streak |
 |---------------------|--------|
-| <img src="https://github-readme-stats.vercel.app/api?username=rajnil9&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats with Grade" width="100%"/> | <a href="https://github.com/rajnil9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/></a> |
+ <a href="https://github.com/rajnil9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/></a> |
 
 
 | Languages by Repo | Languages by Commit |
