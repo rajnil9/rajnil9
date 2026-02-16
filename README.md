@@ -75,9 +75,14 @@
 
 ### 🚀 GitHub Stats:
 
-| Stats  | Streak |
-|---------------------|--------|
- <a href="https://github.com/rajnil9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/></a> |
+| GitHub Streak |
+|---------------|
+| <a href="https://github.com/rajnil9">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" width="100%"/>
+  </a> |
+
+
+
 
 
 | Languages by Repo | Languages by Commit |
