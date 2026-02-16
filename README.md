@@ -75,11 +75,18 @@
 
 ### 🚀 GitHub Stats:
 
-| GitHub Streak |
-|---------------|
-| <a href="https://github.com/rajnil9">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true" width="100%"/>
-  </a> |
+<table>
+<tr>
+<td align="center">
+
+<a href="https://github.com/rajnil9">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnil9&theme=github-dark&hide_border=true"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 
 
